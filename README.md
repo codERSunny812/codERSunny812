@@ -1,13 +1,13 @@
-<h1 align="center">Hi ,I'm Sushil Pandey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
+<h1 align="center">Hi ,I'm Sushil Pandey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="43px"></h1>
 
-<h3 align="left">A passionate  web developer from India.I am a intense learner ,  Learning new technologies and interested in contributions that make my knowledge useful for others.</h3>
+<h3 align="left">A passionate  web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codERSunny812" alt="Sushil Pandey" /></a> </p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=codERSunny812&label=Profile%20views&color=0e75b6&style=flat" alt="codERSunny812" /> </p>
 
- - 🔭 I’m currently working on a Platform Project *TRAVEL WEBSITE*
+ - 🔭 I’m currently working on a Platform Project *Letsdosomething*
 
 - 🌱 I’m currently learning *python* and *php*
 
@@ -16,9 +16,9 @@
 - 📫 How to reach me *sengersunny448@gmail.com*
  
 - Ask me about *python, html and css*
- 
+ <br>
 <hr>
-
+<br>
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/codersunny" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codersunny" height="30" width="40" /></a>&nbsp;<a href="https://twitter.com/sunnyjr_11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunny_jr11" height="30" width="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/sushil-pandey-8ab638209/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-pandey-8ab638209" height="30" width="40" /></a>&nbsp;<a href="https://www.instagram.com/theamiable_sunny/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theamiable_sunny" height="30" width="40" /></a>&nbsp;<a href="https://www.youtube.com/channel/UCCNIqsl_s-yjZJYECon4uWA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sunny vlogs" height="30" width="40" /></a>&nbsp;<a href="https://www.codechef.com/users/sunny812" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codevision" height="30" width="40" /></a>&nbsp;<a href="https://www.hackerrank.com/sengersunny448" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sengersunny448" height="30" width="40" /></a>
@@ -53,7 +53,7 @@
  <h3 align="centre"> Top repositary <h3>
  &nbsp;&nbsp;
 <a href="https://github.com/codERSunny812/bootsrap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=bootsrap&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=bootsrap&theme=radical" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/codERSunny812/travelWeb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelWeb&theme=midnight-purple" />
@@ -67,8 +67,8 @@
 <br>
  <br>
  <p>
-  <strong>“Ruby is rubbish! PHP is phpantastic!”</strong>
-  <strong> – Nikita Popov</strong>
+  <i>“Ruby is rubbish! PHP is phpantastic!”</i>
+  <i> – Nikita Popov</i>
  </p>
  
 
