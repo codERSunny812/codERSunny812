@@ -53,7 +53,7 @@
  <h3 align="centre"> Top repositary <h3>
  &nbsp;&nbsp;
 <a href="https://github.com/codERSunny812/bootsrap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=bootsrap&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=bootsrap&theme=midnight-purple" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/codERSunny812/travelWeb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelWeb&theme=midnight-purple" />
