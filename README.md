@@ -44,7 +44,7 @@
 
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&show_icons=true&theme=midnight-purple" alt="codERSunny812" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codERSunny812&theme=midnight-purple" alt="codERSunny812" /></p>
+<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codERSunny812&theme=midnight-purple" alt="codERSunny812" /></p>
 
 
 <p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=https://github.com/codERSunny812/myportfolio"> </p> 
