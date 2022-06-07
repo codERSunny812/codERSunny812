@@ -7,7 +7,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=codERSunny812&label=Profile%20views&color=0e75b6&style=flat" alt="codERSunny812"/></p>
 
- - 🔭 I’m currently working on a Platform Project *Letsdosomething*
+ - 🔭 I’m currently working on a Platform Project *Mobile review site*
 
 - 🌱 I’m currently learning *python* and *php*
 
