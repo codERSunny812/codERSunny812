@@ -1,6 +1,6 @@
 <h1 align="center">Hi ,I'm Sushil Pandey 👋</h1>
 
-<h3 align="left">A full stack   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
+<h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codERSunny812" alt="Sushil Pandey"/></a></p>
