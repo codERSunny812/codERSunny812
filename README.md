@@ -3,9 +3,9 @@
 <h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codERSunny812" alt="Sushil Pandey"/></a></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=codERSunny812&label=Profile%20views&color=0e75b6&style=flat" alt="codERSunny" /> </p>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codERSunny812&label=Profile%20views&color=0e75b6&style=flat" alt="codERSunny812"/></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="codERSunny812" /></a> </p>
 
  - 🔭 I’m currently working on a Platform Project *Mobile review site*
 
