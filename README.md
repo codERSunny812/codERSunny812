@@ -9,7 +9,7 @@
 
  - 🔭 I’m currently working on a Platform Project *Mobile review site*
 
-- 🌱 I’m currently learning *python* and *php*
+- 🌱 I’m currently learning *java* and *javascript*
 
 - 👨‍💻 All of my projects are available at [github.com/codERSunny812/](github.com/codERSunny812)
 
