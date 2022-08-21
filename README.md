@@ -1,4 +1,4 @@
-<h1 align="center">Hi ,I'm Sushil Pandey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">Hi ,I'm Sushil Pandey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
 
 <h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
 
@@ -52,7 +52,7 @@
  <hr>
 
 
- <h3 align="centre"> Top repositary <h3>
+ <h2 align="centre"> Top repositary <h3>
  &nbsp;&nbsp;
 <a href="https://github.com/codERSunny812/travelblog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelblog&theme=midnight-purple" />
