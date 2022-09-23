@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="codERSunny812" /></a> </p>
 
- - 🔭 I’m currently working on a Platform Project *Mobile review site*
+ - 🔭 I’m currently working on a Platform Project *LetsDosomething*
 
-- 🌱 I’m currently learning *java* and *javascript*
+- 🌱 I’m currently learning  and *javascript*
 
 - 👨‍💻 All of my projects are available at [github.com/codERSunny812/](github.com/codERSunny812)
 
