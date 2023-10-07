@@ -19,6 +19,34 @@
 </a>
 
 
+<!--- social media icons, you can find them in the assets directory of this repo --->
+  
+<a href="https://twitter.com/codeerasunny" target="_blank">
+    <img height="55" alt="suhil pandey  | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+</a>  
+  
+<a href="https://www.youtube.com/@sunnyvlogs812" target="_blank">
+    <img height="55" alt="sushil pandey  | Youtube" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
+</a>  
+  
+<a href="https://www.linkedin.com/in/sushil-pandey-8ab638209/" target="_blank">
+  <img height="55" alt="sushil pandey | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+</a> 
+  
+<a href="https://stackoverflow.com/users/19096308/sunny" target="_blank">
+  <img height="55" alt="sushil pandey  | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
+</a>
+  
+<a href="https://www.instagram.com/@theamiable_sunny/" target="_blank">
+  <img height="55" alt="sushil pandey | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+</a>
+
+  
+<!--- a bit of vertical space & languages text --->
+  
+<div>&nbsp;</div>
+
+
 
 
 
