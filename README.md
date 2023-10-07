@@ -7,7 +7,8 @@
   <img alt="" style="{max-height: 0px}" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/0195c8c6-15e5-451c-ae1f-1a58a00cfd14">
 </p>
 
-  
+
+
 <!--- portfolio launch image --->
   
 <a href="https://scintillating-salmiakki-2aaa81.netlify.app/">
@@ -67,7 +68,7 @@
 
 
 
-<img width="130" height="200" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/cae26c53-812f-4faf-8939-aeaf49239c13" />
+<img width="130" height="200" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
 
 I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh University.
 
