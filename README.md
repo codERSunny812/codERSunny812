@@ -22,7 +22,7 @@
 <!--- social media icons, you can find them in the assets directory of this repo --->
   
 <a href="https://twitter.com/codeerasunny" target="_blank">
-    <img height="55" alt="suhil pandey  | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+    <img height="55" alt="sushil pandey  | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>  
   
 <a href="https://www.youtube.com/@sunnyvlogs812" target="_blank">
@@ -49,6 +49,50 @@
 
 
 
+
+<!--- language icons --->
+
+
+  
+
+<img height="100" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f072a5cf-bcf8-435c-8ec2-0ea36cf3a30e" />
+<img height="100" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/5ed616a4-b402-42ab-9a49-b015619b4793" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
+
+
+&nbsp;
+<h1 align="center">
+  ABOUT ME
+</h1>
+
+
+
+<img width="130" height="200" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/cae26c53-812f-4faf-8939-aeaf49239c13" />
+
+I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh University.
+
+✔ Experienced Front End Developer.
+
+✔ Proficient in web development, Data Structures Algorithms (Java), and Solidity.
+
+✔ Strive to contribute my expertise in Data Structures and Algorithms.
+
+✔ Experienced in database management, version control, and software deployment.
+
+
+<!--- Education --->  
+  
+<h1 align="center">
+    Education 
+    </h2>
+
+  Sixth Semester - `Bachelor` in `Computer Engineering` - Institue of Engineering and Technology, Ayodhya
+  
+  `Secondary School` Certificate `(CBSE)` or `Matriculation` Examination - Kendriya Vidyalaya AMC , Lucknow.
+
+   `Personal Website` -> <a href="https://scintillating-salmiakki-2aaa81.netlify.app/" target="_blank">`Sushil Pandey`</a>
+  
+ 
 
 
 
