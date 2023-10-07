@@ -1,6 +1,7 @@
 
 <!--- header image --->
 
+
 <div align="center">
   
 <p align="left">
@@ -58,7 +59,7 @@
 
 <img height="100" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f072a5cf-bcf8-435c-8ec2-0ea36cf3a30e" />
 <img height="100" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/5ed616a4-b402-42ab-9a49-b015619b4793" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
+<img height="100" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/e43f5667-b82b-49d0-a806-de177f228569" />
 
 
 &nbsp;
@@ -68,7 +69,7 @@
 
 
 
-<img width="130" height="200" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
+<img width="150" height="250" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
 
 I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh University.
 
