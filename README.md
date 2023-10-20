@@ -139,7 +139,7 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
 
 
 ### Lang Used
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codERSunny812" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codERSunny812&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codERSunny812" /></p>
 
 
 
