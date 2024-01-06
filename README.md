@@ -102,11 +102,20 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
    `Personal Website` -> <a href="https://scintillating-salmiakki-2aaa81.netlify.app/" target="_blank">`Sushil Pandey`</a>
 
    # 📊 GitHub Stats:
-   <p align="center">
- 
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=codersunny812&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" /> 
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=codersunny812&theme=jolly&hide_border=false" />
   
+  <p style={{ display: 'flex', justifyContent: 'center' }}>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=codersunny">
+    <img src="https://stats.quine.sh/codersunny/github?theme=dark" alt="GitHub Stats" width="500" height="500">
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=codersunny">
+    <img src="https://stats.quine.sh/codersunny/dependencies?theme=dark" alt="GitHub Dependencies" width="500" height="500">
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=codersunny">
+    <img src="https://stats.quine.sh/codersunny/topics-over-time?theme=dark" alt="Topics Over Time" width="600" height="600">
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=codersunny">
+    <img src="https://stats.quine.sh/codersunny/languages-over-time?theme=dark" alt="Languages Over Time" width="600" height="600">
+  </a>
 </p>
 
 
