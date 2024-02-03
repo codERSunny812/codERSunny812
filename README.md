@@ -69,7 +69,7 @@
 
 
 
-<img width="150" height="250" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
+<img width="250" height="350" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
 
 I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh University.
 
