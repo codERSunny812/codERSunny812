@@ -156,3 +156,12 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=8&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/lu57g0xcnkmvwknegbr4gsfe6">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lu57g0xcnkmvwknegbr4gsfe6&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+
