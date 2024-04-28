@@ -88,7 +88,7 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
     Education 
     </h2>
 
-  Sixth Semester - `Bachelor` in `Computer Engineering` - Institue of Engineering and Technology, Ayodhya
+  Eight Semester - `Bachelor` in `Computer Engineering` - Institue of Engineering and Technology, Ayodhya
   
   `Secondary School` Certificate `(CBSE)` or `Matriculation` Examination - Kendriya Vidyalaya AMC, Lucknow.
 
