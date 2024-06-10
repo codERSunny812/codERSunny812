@@ -1,26 +1,92 @@
 
 <!--- header image --->
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Sushil Pandey</h1>
+<h3 align="center">A passionate Programmer from India</h3>
+
+
+
+<!--- language icon --->
+
 
 <div align="center">
 
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50">
+
+  <br>
+
+
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
   
-<p align="left">
-  <img alt="" style="{max-height: 0px}" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/0195c8c6-15e5-451c-ae1f-1a58a00cfd14">
-</p>
+
+
+</div>
 
 
 
-<!--- portfolio launch image --->
+
+
+<!--- about section --->
+
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **ChatApp**
+
+- 🌱 I’m currently learning **django and mongoDB**
+
+- 💬 Ask me about **Java, Git, MongoDB and NodeJS**
+
+- ❤️ Love to writing code and learning new features
+
+- 📫 How to reach me **sushil812.dev@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
+
+<br>
+
+
+
+
+<!--- portfolio launch button --->
+
+<div align="center">
+  <a href="https://scintillating-salmiakki-2aaa81.netlify.app/" align="center">
+    <img height="100"   align="center"/>
+  </a>
+
+</div>
+
+
+
+<div align="center">
+
+<a href="https://scintillating-salmiakki-2aaa81.netlify.app/" align="center">
   
-<a href="https://scintillating-salmiakki-2aaa81.netlify.app/">
-  
-  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+  <img height="300" align="center" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
   ![](https://komarev.com/ghpvc/?username=codersunny812&color=blueviolet&label=Profile+Views)
   
 </a>
+</div>
 
+
+<div align="center">
 
 <!--- social media icons, you can find them in the assets directory of this repo --->
   
@@ -43,33 +109,28 @@
 <a href="https://www.instagram.com/@theamiable_sunny/" target="_blank">
   <img height="55" alt="sushil pandey | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
-
-  
-<!--- a bit of vertical space & languages text --->
-  
-<div>&nbsp;</div>
+</div>
 
 
 
 
 
-<!--- language icons --->
 
 
   
 
-<img height="100" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f072a5cf-bcf8-435c-8ec2-0ea36cf3a30e" />
-<img height="100" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/5ed616a4-b402-42ab-9a49-b015619b4793" />
-<img height="100" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/e43f5667-b82b-49d0-a806-de177f228569" />
 
 
-&nbsp;
+  
+
+
+
+
 <h1 align="center">
   ABOUT ME
 </h1>
 
-
-
+<div align="center">
 <img width="200" height="300" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
 
 I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh University.
@@ -94,24 +155,93 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
   `Secondary School` Certificate `(CBSE)` or `Matriculation` Examination - Kendriya Vidyalaya AMC, Lucknow.
 
 
-  
-<h1 align="center">
-    Portfolio/Website
-    </h2>
-  
 
-   `Personal Website` -> <a href="https://scintillating-salmiakki-2aaa81.netlify.app/" target="_blank">`Sushil Pandey`</a>
+
+
+</div>
+
+
+<div align="center">
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codersunny812&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<!--- Github snack contribution graph --->
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Experience,Stars,Followers">
+ </div>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/codERSunny812">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codERSunny812&theme=radical" alt="Chirag's GitHub Contribution"/>
+  </a>
+</p>
+
+
+
+![Sunny's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codERSunny812&custom_title=Sunny's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+
+<div align="center">
 
 
 ## Support
@@ -122,7 +252,6 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
     <img height="55" width="210" alt="Ananya singh | Twitter" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" />
 </a>
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codersunny812&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
@@ -131,9 +260,7 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
 
 ### Lang Used
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=8&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" /></p>
-
-
-   # 📊 GitHub Stats:
+ # 📊 GitHub Stats:
   
  <p align="center">
 
@@ -150,4 +277,5 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
 </div>
 
 
+</div>
 
