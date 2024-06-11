@@ -203,7 +203,7 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
 - ### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,django,express,nextjs" />
   </a>
 </p>
 
@@ -224,14 +224,14 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
 - ### Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudfare" />
   </a>
 </p>
 
 - ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,sublime,idea,vscode,postman,linux" />
   </a>
 </p>
 
