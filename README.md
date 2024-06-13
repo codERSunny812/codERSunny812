@@ -259,14 +259,14 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
 
 
 ### Lang Used
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=8&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /></p>
  
  # 📊 GitHub Stats:
   
  <p align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" /> 
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=codERSunny812&theme=jolly&hide_border=false" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /> 
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=codERSunny812&theme=dracula&hide_border=false" />
 
 </p>
 
