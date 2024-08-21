@@ -132,7 +132,7 @@
 </h1>
 
 <div align="center">
-<img width="200" height="300" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
+<img width="200" height="300" src="https://github.com/user-attachments/assets/72b45fde-3053-4d79-af8b-0fcf1c04c0b7" />
 
 I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh University.
 
