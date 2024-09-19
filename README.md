@@ -4,7 +4,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Sushil Pandey</h1>
+<h1 align="center">Hello there 👋, I'm Sushil Pandey</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
 
@@ -53,7 +53,7 @@
 
 - 💬 Ask me about **Java, Git, MongoDB and NodeJS**
 
-- ❤️ Love to writing code and learning new features
+- ❤️ Love to writing **code** and learning new **tech stack**
 
 - 📫 How to reach me **sushil812.dev@gmail.com**
 
@@ -134,17 +134,15 @@
 <div align="center">
 <img width="200" height="300" src="https://github.com/user-attachments/assets/72b45fde-3053-4d79-af8b-0fcf1c04c0b7" />
 
-I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh University.
+I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
 
 ✔ Experienced Front End Developer.
 
-✔ Proficient in web development, Data Structures Algorithms (Java), and Solidity.
+✔ Proficient in web development, Data Structures and Algorithms (Java), and Solidity.
 
-✔ Strive to contribute my expertise in Data Structures and Algorithms.
+✔ Passionate about applying my expertise in Data Structures and Algorithms to solve complex problems.
 
-✔ Experienced in database management, version control, and software deployment.
-
-
+✔ Skilled in database management, version control, and software deployment
 <!--- Education --->  
   
 <h1 align="center">
