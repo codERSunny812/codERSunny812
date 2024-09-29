@@ -67,7 +67,7 @@
 <!--- portfolio launch button --->
 
 <div align="center">
-  <a href="https://scintillating-salmiakki-2aaa81.netlify.app/" align="center">
+  <a href="https://port-folio-eoji.vercel.app/" align="center">
     <img height="100"   align="center"/>
   </a>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<a href="https://scintillating-salmiakki-2aaa81.netlify.app/" align="center">
+<a href="https://port-folio-eoji.vercel.app/" align="center">
   
   <img height="300" align="center" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
@@ -111,21 +111,6 @@
   <img height="55" alt="sushil pandey | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
 </div>
-
-
-
-
-
-
-
-  
-
-
-
-  
-
-
-
 
 <h1 align="center">
   ABOUT ME
@@ -243,13 +228,7 @@ I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
 <div align="center">
 
 
-## Support
-<a href="https://www.buymeacoffee.com/codERSunny">
-    <img height="55" width="210" alt="Ananya singh | Twitter" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
-</a> 
-<a href="https://ko-fi.com/codersunny">
-    <img height="55" width="210" alt="Ananya singh | Twitter" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" />
-</a>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codersunny812&limit=5&theme=dracula&combine_all_yearly_contributions=true)
