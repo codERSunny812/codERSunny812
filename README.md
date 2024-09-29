@@ -49,7 +49,7 @@
 
 - 🔭 I’m currently working on **ChatApp**
 
-- 🌱 I’m currently learning **django and mongoDB**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **Java, Git, MongoDB and NodeJS**
 
