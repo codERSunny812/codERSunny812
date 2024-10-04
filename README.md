@@ -49,11 +49,15 @@
 
 - 🔭 I’m currently working on **ChatApp**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Full Stack development and Swift**
 
-- 💬 Ask me about **Java, Git, MongoDB and NodeJS**
+- 💬 Ask me about **web development & problem solving in java**
+  
+- 👯 Looking to collaborate on **Open source projects and innovative web applications**
 
 - ❤️ Love to writing **code** and learning new **tech stack**
+
+- 🔭 Working on **Enhancing my skills in React.js, Next.js, MongoDB, and JavaScript**
 
 - 📫 How to reach me **sushil812.dev@gmail.com**
 
@@ -66,12 +70,6 @@
 
 <!--- portfolio launch button --->
 
-<div align="center">
-  <a href="https://coder-sunny.vercel.app/" align="center">
-    <img height="100"   align="center"/>
-  </a>
-
-</div>
 
 
 
@@ -125,23 +123,20 @@ I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
 
 ✔ Proficient in web development, Data Structures and Algorithms (Java), and Solidity.
 
-✔ Passionate about applying my expertise in Data Structures and Algorithms to solve complex problems.
+✔ Passionate about applying my Data Structures and Algorithms expertise to solve complex problems.
 
 ✔ Skilled in database management, version control, and software deployment
 <!--- Education --->  
   
 <h1 align="center">
     Education 
-    </h2>
+    </h1>
 
-  Eight Semester - `Bachelor` in `Computer Engineering` - Institue of Engineering and Technology, Ayodhya
+  `Bachelor` in `Computer Science and  Engineering` - Institue of Engineering and Technology, Ayodhya
   
-  `Secondary School` Certificate `(CBSE)` or `Matriculation` Examination - Kendriya Vidyalaya AMC, Lucknow.
+  `Secondary School` Certificate `(CBSE)` Examination - Kendriya Vidyalaya AMC, Lucknow.
 
-
-
-
-
+  `High School` Certificate `(CBSE)` Examination - Kendriya Vidyalaya JRC, Barielly.
 </div>
 
 
@@ -184,17 +179,24 @@ I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
 
 <h3 align="left">Languages and Tools:</h3>
 
+- ### Programming Language
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,swift,py,js,ts" />
+  </a>
+</p>
+
 - ### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,django,express,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,django,express,nextjs" />
   </a>
 </p>
 
 - ### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
