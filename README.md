@@ -161,7 +161,7 @@ I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
 
 <p align="center">
   <a href="https://github.com/codERSunny812">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codERSunny812&theme=radical" alt="Chirag's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codERSunny812&theme=nightowl" alt="Chirag's GitHub Contribution"/>
   </a>
 </p>
 
@@ -231,22 +231,19 @@ I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
 
 
 
+# Lang Used
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=20&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codersunny812&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-
-
-
-### Lang Used
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /></p>
+ # 👨🏻‍💻WakaTime Stats
+ [![Sunny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codersunny&theme=nightowl&layout=compact)]()
  
  # 📊 GitHub Stats:
+ [![GitHub Streak](https://streak-stats.demolab.com?user=codERSunny812&theme=nightowl)](https://git.io/streak-stats)
   
  <p align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /> 
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=codERSunny812&theme=dracula&hide_border=false" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /> 
+
 
 </p>
 
