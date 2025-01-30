@@ -238,7 +238,7 @@ I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
  [![Sunny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codersunny&theme=nightowl&layout=compact)]()
  
  # 📊 GitHub Stats:
- [![GitHub Streak](https://streak-stats.demolab.com?user=codERSunny812&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codERSunny812&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
   
  <p align="center">
 
