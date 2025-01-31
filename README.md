@@ -49,7 +49,7 @@
 
 - 🔭 I’m currently working on **ChatApp**
 
-- 🌱 I’m currently learning **Full Stack development and Swift**
+- 🌱 I’m currently learning **Full Stack development and React Native**
 
 - 💬 Ask me about **web development & problem solving in java**
   
