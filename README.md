@@ -47,9 +47,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **ChatApp**
+- 🔭 I’m currently working on **Stellar Cabs and LMS**
 
-- 🌱 I’m currently learning **Full Stack development and React Native**
+- 🌱 I’m currently learning **Full Stack development and Docker, Kubernates**
 
 - 💬 Ask me about **web development & problem solving in java**
   
@@ -57,11 +57,11 @@
 
 - ❤️ Love to writing **code** and learning new **tech stack**
 
-- 🔭 Working on **Enhancing my skills in React.js, Next.js, MongoDB, and JavaScript**
+- 🔭 Working on **Enhancing my skills in Full Stack Development**
 
 - 📫 How to reach me **sushil812.dev@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I love participating in hackathons and coding challenges!**
 
 <br>
 
