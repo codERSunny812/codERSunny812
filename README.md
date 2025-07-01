@@ -21,6 +21,8 @@
   <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50">
+  
+
 
   <br>
 
@@ -88,6 +90,8 @@
 <div align="center">
 
 <!--- social media icons, you can find them in the assets directory of this repo --->
+
+  <a href="https://www.f6s.com/member/sunny?follow=1" target="_blank" title="Follow SUNNY on F6S"><img src="https://www.f6s.com/images/f6s-follow-secondary.png" border="0" width="150" height="50" alt="Follow SUNNY on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
   
 <a href="https://twitter.com/codeerasunny" target="_blank">
     <img height="55" alt="sushil pandey  | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
@@ -109,6 +113,8 @@
   <img height="55" alt="sushil pandey | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
 </div>
+
+
 
 <h1 align="center">
   ABOUT ME
