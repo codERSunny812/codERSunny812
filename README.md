@@ -5,7 +5,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hello there 👋, I'm Sushil Pandey</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and Data scientistt from India.</h3>
 
 
 
@@ -51,7 +51,7 @@
 
 - 🔭 I’m currently working on **Stellar Cabs and LMS**
 
-- 🌱 I’m currently learning **Full Stack development and Docker, Kubernates**
+- 🌱 I’m currently learning **Data Science and NLP**
 
 - 💬 Ask me about **web development & problem solving in java**
   
@@ -59,7 +59,7 @@
 
 - ❤️ Love to writing **code** and learning new **tech stack**
 
-- 🔭 Working on **Enhancing my skills in Full Stack Development**
+- 🔭 Working on **Enhancing my skills in Full Stack Development as well as Data Science**
 
 - 📫 How to reach me **sushil812.dev@gmail.com**
 
@@ -123,11 +123,11 @@
 <div align="center">
 <img width="200" height="300" src="https://github.com/user-attachments/assets/72b45fde-3053-4d79-af8b-0fcf1c04c0b7" />
 
-I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
+I am currently Studying Master's in Data Science  from Army Institute Of Technology.
 
 ✔ Experienced Front End Developer.
 
-✔ Proficient in web development, Data Structures and Algorithms (Java), and Solidity.
+✔ Proficient in web development, Data Structures and Algorithms (Java).
 
 ✔ Passionate about applying my Data Structures and Algorithms expertise to solve complex problems.
 
@@ -138,7 +138,9 @@ I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
     Education 
     </h1>
 
-  `Bachelor` in `Computer Science and  Engineering` - Institue of Engineering and Technology, Ayodhya
+  `Master` in `Data Science` - Army Institute of Technology, Pune.
+
+  `Bachelor` in `Computer Science and  Engineering` - Institue of Engineering and Technology, Ayodhya.
   
   `Secondary School` Certificate `(CBSE)` Examination - Kendriya Vidyalaya AMC, Lucknow.
 
