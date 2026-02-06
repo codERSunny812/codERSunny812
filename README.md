@@ -4,7 +4,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hello there 👋, I'm Sushil Pandey</h1>
+<h1 align="center">Hello there 👋, I'm Jatin Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer and Data scientistt from India.</h3>
 
 
@@ -61,7 +61,7 @@
 
 - 🔭 Working on **Enhancing my skills in Full Stack Development as well as Data Science**
 
-- 📫 How to reach me **sushil812.dev@gmail.com**
+
 
 - ⚡ Fun fact **I love participating in hackathons and coding challenges!**
 
@@ -121,7 +121,7 @@
 </h1>
 
 <div align="center">
-<img width="200" height="300" src="https://github.com/user-attachments/assets/72b45fde-3053-4d79-af8b-0fcf1c04c0b7" />
+
 
 I am currently Studying Master's in Data Science  from Army Institute Of Technology.
 
@@ -140,42 +140,11 @@ I am currently Studying Master's in Data Science  from Army Institute Of Technol
 
   `Master` in `Data Science` - Army Institute of Technology, Pune.
 
-  `Bachelor` in `Computer Science and  Engineering` - Institue of Engineering and Technology, Ayodhya.
-  
-  `Secondary School` Certificate `(CBSE)` Examination - Kendriya Vidyalaya AMC, Lucknow.
 
-  `High School` Certificate `(CBSE)` Examination - Kendriya Vidyalaya JRC, Barielly.
 </div>
 
 
 <div align="center">
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Experience,Stars,Followers">
- </div>
-
-
-
-
-<p align="center">
-  <a href="https://github.com/codERSunny812">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codERSunny812&theme=nightowl" alt="Chirag's GitHub Contribution"/>
-  </a>
-</p>
-
-
-
-![Sunny's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codERSunny812&custom_title=Sunny's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
