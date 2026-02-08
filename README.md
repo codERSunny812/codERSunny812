@@ -233,8 +233,7 @@ I am currently Studying Master's in Data Science  from Army Institute Of Technol
 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codERSunny812&langs_count=20&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
- # 👨🏻‍💻WakaTime Stats
- [![Sunny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codERSunny812&theme=nightowl&layout=compact)]()
+
  
  # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=codERSunny81&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
