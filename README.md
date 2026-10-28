@@ -49,7 +49,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Stellar Cabs and LMS**
+- 🔭 I’m currently working on **Something Good**
 
 - 🌱 I’m currently learning **Data Science and NLP**
 
@@ -125,7 +125,7 @@
 
 I am currently Studying Master's in Data Science  from Army Institute Of Technology.
 
-✔ Experienced Front End Developer.
+✔ Experienced Full Stack Developer.
 
 ✔ Proficient in web development, Data Structures and Algorithms (Java).
 
@@ -236,7 +236,7 @@ I am currently Studying Master's in Data Science  from Army Institute Of Technol
 
  
  # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=codERSunny81&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codERSunny812&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
   
  <p align="center">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /> 
